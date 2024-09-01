@@ -1,0 +1,20 @@
+{
+    "studios": [
+        {
+        "id":" 1",
+        "name": "Art Tatto - Morumbi",
+        "address": "Rua Machado Bitencourt",
+        "number": "32",
+        "state":  "São Paulo",
+        "cep": "04044-903"
+    },
+    {
+        "id":"2",
+        "name": "GusTatto",
+        "address": "Acesso Sabia Laranjeira",
+        "number": "815",
+        "state":  "São Paulo",
+        "cep": "04044-903"
+    }
+]
+}
